@@ -1,1 +1,1 @@
-Hello index!
+<c:redirect url="/app/note" />
